@@ -1,6 +1,6 @@
 # Student Database Management System
 
-The Student Database Management System is a Java project designed to manage student records in a database. It provides several features, including adding student records, displaying student records, and editing students' GPA.
+The Student Database Management System is a Java project designed to manage student records in a database. It provides several features, including adding student records, displaying student records, and editing students' GPAs.
 
 ## Features
 
@@ -16,7 +16,7 @@ The Student Database Management System is a Java project designed to manage stud
 ## Technologies Used
 
 - **Java:** The project is implemented using the Java programming language.
-- **Database (Specify the database technology used):** Describe the database technology used to store and retrieve student records.
+- **mariaDB:** open-source database used to store and retrieve student records.
 
 ## Project Structure
 
@@ -29,5 +29,5 @@ Follow these steps to set up and run the Student Database Management System on y
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/student-database-management.git
-   cd student-database-management
+   git clone https://github.com/su0ltan/student-SQL-project.git
+   cd student-SQL-project
