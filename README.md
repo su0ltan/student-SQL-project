@@ -1,6 +1,8 @@
 # Student Database Management System
 
 The Student Database Management System is a Java project designed to manage student records in a database. It provides several features, including adding student records, displaying student records, and editing students' GPAs.
+<img width="500" alt="image" src="https://github.com/su0ltan/student-SQL-project/assets/53498277/77a8a820-2f7f-48c2-ad3f-1953035b5ad9">
+
 
 ## Features
 
